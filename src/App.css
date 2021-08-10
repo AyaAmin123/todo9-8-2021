@@ -1,0 +1,32 @@
+*{ box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.AppContainer{
+    background-color: #686963;
+padding: 10% auto;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.AppName{
+    width: 40%;
+    margin: auto;
+    padding: 20px 5px 20px 5px;
+    background-color: aliceblue;
+    border-radius:5px ;
+}
+.Title{
+    background-color: #8AA29E;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    text-shadow: 4px 2px rgb(78, 38, 38);
+}
+.App{
+    margin-top: 10px;
+}
